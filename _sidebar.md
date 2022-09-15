@@ -1,11 +1,11 @@
 <!-- _sidebar.md -->
 
-* 说明
-  * [使用说明](/ProjectDocs/使用说明.md)
-* 时事
-  * [目录](/ProjectDocs/目录1.md)
-  * [1组：双奥记忆](/ProjectDocs/1组：双奥记忆.md)
-* 阅读
-  * [目录](/ProjectDocs/目录2.md)
+* [时事评论](/ProjectDocs/时评目录.md)
+  * [1组：XXXX](/ProjectDocs/1组：XXXXX.md)
+* [阅读汇报](/ProjectDocs/阅读目录.md)
   * [1组：XXXX](/ProjectDocs/1组：XXXX.md)
-* “诗和远方”
+* ["诗和远方"](/ProjectDocs/诗集目录.md)
+* [说明](/ProjectDocs/说明目录.md)
+  * [更新](/ProjectDocs/更新日志.md)
+  * [开放源代码许可](/ProjectDocs/开原许可.md)
+  * [前端](/ProjectDocs/前端.md)
