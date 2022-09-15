@@ -1,4 +1,4 @@
-# c6-demo
+# The Demo of Project C6
 
 移动版网页请点击左下角的三条横杠开始。
 
