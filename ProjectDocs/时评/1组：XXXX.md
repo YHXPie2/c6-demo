@@ -12,9 +12,18 @@
 
 .PPT文稿：0MB
 
+[![下载](https://c6.03hx.xyz/Files/Pics/Download-Green.svg)](https://baidu.com)
+[![预览](https://c6.03hx.xyz/Files/Pics/View-Green.svg)](https://baidu.com)
+
 ----
 
 视频资源：0MB
+
+[![下载](https://c6.03hx.xyz/Files/Pics/Download-1080P.svg)](https://baidu.com)
+[![预览](https://c6.03hx.xyz/Files/Pics/View-1080P.svg)](https://baidu.com)
+
+[![下载](https://c6.03hx.xyz/Files/Pics/Download-720P.svg)](https://baidu.com)
+[![预览](https://c6.03hx.xyz/Files/Pics/View-720P.svg)](https://baidu.com)
 
 ----
 
