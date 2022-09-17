@@ -20,4 +20,4 @@ Site ©HX. 2022
 
 Powered by Docsify | Github Pages
 
-Beta Ver 0.2.263 / UI V.1.0.1
+**Beta** Ver 0.2.263 / UI V.1.0.1
