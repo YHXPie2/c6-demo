@@ -1,35 +1,42 @@
-# “双奥”记忆
+# Title
 
-?> 这只是一个Demo，仅用于预览。
+?> 加分：+8
 
 2022年8月，1组
 
-#### 加分：8
-
-- - - -
+组员：周佳蕾、陈梓萌、甘露、顾欣蕤、范晔、杨乐瑶、杨成熙、王予乐
 
 ### Release
 
-PPT文稿：共14张，19.7MB
+----
 
-PDF打印稿：共14张（A4），7.89MB
+.PPT文稿：0MB
+
+----
+
+视频资源：0MB
+
+----
+
+.PDF文稿：0MB
+
+----
+
+.PDF文稿（仅素材）：0MB
+
+- - - -
 
 [![vfyyxf.png](https://s1.ax1x.com/2022/08/29/vfyyxf.png)](https://baidu.com)
 [![vfysRP.png](https://s1.ax1x.com/2022/08/29/vfysRP.png)](https://baidu.com)
 
 - - - -
 
-组员列表：
-
-新闻采集+概要：周佳蕾
-
-
-完全段写作：陈梓萌、甘露、顾欣蕤
-
-新闻短评：范晔、杨乐瑶
-
-PPT制作：杨成熙
-
-PPT汇报：王予乐
-
 ![alt 属性文本](https://s1.ax1x.com/2022/08/29/vfyHMT.jpg)
+
+- - - -
+
+_本页内容版权和最终解释权归制作组成员所有。_
+
+Site ©HX. 2022
+
+Powered by Docsify
