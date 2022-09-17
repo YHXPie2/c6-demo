@@ -20,15 +20,15 @@
 
 .PDF文稿：0MB
 
+[![下载](https://c6.03hx.xyz/Files/Pics/Download-Blue.svg)](https://baidu.com)
+[![预览](https://c6.03hx.xyz/Files/Pics/View-Blue.svg)](https://baidu.com)
+
 ----
 
 .PDF文稿（仅素材）：0MB
 
-- - - -
-
-[![vfyyxf.png](https://c6.03hx.xyz/Files/Pics/View-Blue.svg)](https://baidu.com)
-[![vfysRP.png](https://codesandbox.io/static/img/play-codesandbox.svg)](https://baidu.com)
-[![vfyyxf.png](https://c6.03hx.xyz/Files/Pics/Download-Blue.svg)](https://baidu.com)
+[![下载](https://c6.03hx.xyz/Files/Pics/Download-Blue.svg)](https://baidu.com)
+[![预览](https://c6.03hx.xyz/Files/Pics/View-Blue.svg)](https://baidu.com)
 
 - - - -
 
