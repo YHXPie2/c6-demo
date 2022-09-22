@@ -1,47 +1,32 @@
-# Title
+# “双奥”记忆
 
 ?> 加分：+8
 
 2022年8月，1组
 
-组员：XXX、XXX
+组员：周佳蕾、陈梓萌、甘露、顾欣蕤、范晔、杨乐瑶、杨成熙、王予乐
 
 ### Release
 
 ----
 
-.PPT文稿：0MB
-
-[![下载](https://c6.03hx.xyz/Files/Pics/Download-Green.svg)](https://baidu.com)
-[![预览](https://c6.03hx.xyz/Files/Pics/View-Green.svg)](https://baidu.com)
+.PPT文稿：19.7MB
 
 ----
 
-视频资源：0MB
+.PDF文稿：5.9MB
 
-[![下载](https://c6.03hx.xyz/Files/Pics/Download-1080P.svg)](https://baidu.com)
-[![预览](https://c6.03hx.xyz/Files/Pics/View-1080P.svg)](https://baidu.com)
-
-[![下载](https://c6.03hx.xyz/Files/Pics/Download-720P.svg)](https://baidu.com)
-[![预览](https://c6.03hx.xyz/Files/Pics/View-720P.svg)](https://baidu.com)
-
-----
-
-.PDF文稿：0MB
-
-[![下载](https://c6.03hx.xyz/Files/Pics/Download-Blue.svg)](https://baidu.com)
-[![预览](https://c6.03hx.xyz/Files/Pics/View-Blue.svg)](https://baidu.com)
+[![下载](https://c6.03hx.xyz/Files/Pics/Download-Green.svg)](https://c6-resource.oss-cn-hongkong.aliyuncs.com/Files/PDF/%E7%AC%AC1%E7%BB%84%20%E2%80%9C%E5%8F%8C%E5%A5%A5%E8%AE%B0%E5%BF%86%E2%80%9D.pdf)
 
 ----
 
 .PDF文稿（仅素材）：0MB
 
-[![下载](https://c6.03hx.xyz/Files/Pics/Download-Blue.svg)](https://baidu.com)
-[![预览](https://c6.03hx.xyz/Files/Pics/View-Blue.svg)](https://baidu.com)
+[![下载](https://c6.03hx.xyz/Files/Pics/Download-Green.svg)](https://c6-resource.oss-cn-hongkong.aliyuncs.com/Files/PDF/%E7%AC%AC1%E7%BB%84%20%E2%80%9C%E5%8F%8C%E5%A5%A5%E8%AE%B0%E5%BF%86%E2%80%9D%20%E6%89%93%E5%8D%B0.pdf)
 
 - - - -
 
-![alt 属性文本](https://s1.ax1x.com/2022/08/29/vfyHMT.jpg)
+![图片](https://s1.ax1x.com/2022/08/29/vfyHMT.jpg)
 
 - - - -
 
