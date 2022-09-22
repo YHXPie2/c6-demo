@@ -1,4 +1,4 @@
-# The Demo of Project C6
+# Project C6
 
 ?> 已支持PWA Offline Mode ，在浏览器支持时，你将获得更好的浏览体验并可以在离线时继续浏览部分内容。
 
