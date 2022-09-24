@@ -17,7 +17,7 @@
   * [5组：林徽因](/ProjectDocs/阅读/5组：林徽因.md)
   * [2组：《药》](/ProjectDocs/阅读/2组：药.md)
   * [8组：《复活》](/ProjectDocs/阅读/8组：复活.md)
-  * [6组：](/ProjectDocs/阅读/6组：.md)
+  * [6组：Nice爷爷](/ProjectDocs/阅读/6组：Nice爷爷.md)
   * [4组：《老人与海》](/ProjectDocs/阅读/4组：老人与海.md)
   * [2组：《老人与海》](/ProjectDocs/阅读/2组：老人与海.md)
 
