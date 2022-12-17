@@ -1,7 +1,3 @@
-Project C6
-
-# 6班 语文课前演讲集合
-- - - -
 The End of Project C6
 ## 关于本站停止服务的说明
 
