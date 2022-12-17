@@ -10,6 +10,8 @@ _Project C6_
 
 ### 12月
 
+_待更新。_
+
 ### 11月
 
 **包含：**
@@ -21,6 +23,8 @@ _Project C6_
 - 第5组：纪录片素材积累
 
 - 第7组：团队精神
+
+[下载](https://c6-files.oss-cn-nanjing.aliyuncs.com/11%E6%9C%88.zip)
 
 ### 10月
 
@@ -41,6 +45,8 @@ _Project C6_
 - 第6组：耶路撒冷
 
 - 第8组：《复活》第2部
+
+[下载](https://c6-files.oss-cn-nanjing.aliyuncs.com/10%E6%9C%88.zip)
 
 ### 9月
 
@@ -66,6 +72,8 @@ _Project C6_
 
 - 第8组：《复活》
 
+[下载](https://c6-files.oss-cn-nanjing.aliyuncs.com/9%E6%9C%88.zip)
+
 ### 更早
 
 **包含：**
@@ -77,6 +85,8 @@ _Project C6_
 - 第2组：老人与海
 
 - 第3组：“这四个字，才是新冠后遗症”
+
+[下载](https://c6-files.oss-cn-nanjing.aliyuncs.com/9%E6%9C%88%E4%BB%A5%E5%89%8D.zip)
 
 ?> 目前任有部分PPT缺失，后期会尽快补齐。
 - - - -
