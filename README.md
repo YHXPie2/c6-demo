@@ -17,7 +17,7 @@ _Project C6_
 - 第8组：我们心中的爱
 - 李墨涵：太宰治
 
-?> [下载](https://c6-files.oss-cn-nanjing.aliyuncs.com/11%E6%9C%88.zip)
+?> [下载](https://c6-files.oss-cn-nanjing.aliyuncs.com/12%E6%9C%88.zip)
 - - - -
 ### 11月
 
